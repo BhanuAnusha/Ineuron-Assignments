@@ -1,3 +1,3 @@
-# Ineuron-Assignments
+# statistics questions
 
 Hello world
